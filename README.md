@@ -97,26 +97,6 @@
 
 ---
 
-## `$ cat achievements.log`
-
-<div align="center">
-
-| Badge | Achievement | How to unlock | Status |
-|:-----:|:-----------:|:--------------|:------:|
-| ⚡ | **Quickdraw** | Close an issue or PR within 5 min of opening it | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
-| 🎲 | **YOLO** | Merge a PR without any review | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
-| 🦈 | **Pull Shark** | Merge 2 pull requests | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
-| 🧑‍🤝‍🧑 | **Pair Extraordinaire** | Co-author a merged PR with someone else | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
-| 🧠 | **Galaxy Brain** | Get an accepted answer in GitHub Discussions | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
-| 🌟 | **Starstruck** | Get 16 stars on a single repo | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
-| 💖 | **Public Sponsor** | Sponsor a developer publicly | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
-
-**Progress: 0 / 7 unlocked** — check `ACHIEVEMENTS_GUIDE.md` in this repo for the full walkthrough.
-
-</div>
-
----
-
 ## `$ echo contact`
 
 <div align="center">
