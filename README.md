@@ -90,8 +90,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output/profile-3d-contrib/profile-night-rainbow.svg" />
-    <img src="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output/profile-night-rainbow.svg" />
+    <img src="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output/profile-green-animate.svg" alt="3D Contribution Graph" />
   </picture>
 </p>
 
