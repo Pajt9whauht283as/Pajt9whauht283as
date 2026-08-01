@@ -36,57 +36,33 @@
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| **👤 Name** | `Prime Broskie` |
-| **📍 Location** | `Romania 🇷🇴` |
-| **⚡ Status** | `coding_something_cool` |
-| **🎮 Focus** | FiveM server development `(ESX / QBCore)` · Roblox scripting `(Luau)` · Automation tools |
-| **🛠️ Languages** | `Lua` `Luau` `Node.js` `Python` `C++` |
-| **📚 Learning** | something new every day |
-| **💡 Fun fact** | *If it doesn't work the first time, it's not a bug — it's a hidden feature.* |
+<div style="width: 620px; max-width: 100%; background: #0d1117; border: 1px solid #30363d; border-radius: 12px; text-align: left; overflow: hidden;">
+
+  <div style="background: #161b22; padding: 8px 16px; border-bottom: 1px solid #30363d; color: #8b949e; font-size: 13px;">
+    <span style="color: #ff5f56;">●</span>&nbsp;<span style="color: #ffbd2e;">●</span>&nbsp;<span style="color: #27c93f;">●</span>
+    <span style="margin-left: 12px;">prime@broskie: ~</span>
+  </div>
+
+  <div style="padding: 16px 20px; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.9; color: #c9d1d9;">
+    <span style="color: #00FF9F;">prime@broskie</span><span style="color: #c9d1d9;">:</span><span style="color: #00D4FF;">~</span><span style="color: #c9d1d9;">$</span> whoami<br>
+    🧑‍💻 <b style="color: #00FF9F;">Prime Broskie</b> — code monkey from Romania<br><br>
+    <span style="color: #8b949e;">location</span> : Romania 🇷🇴<br>
+    <span style="color: #8b949e;">status</span> &nbsp;&nbsp;: <span style="color: #00FF9F;">coding_something_cool</span><br>
+    <span style="color: #8b949e;">focus</span> &nbsp;&nbsp;&nbsp;: FiveM <span style="color: #00D4FF;">(ESX / QBCore)</span> · Roblox <span style="color: #00D4FF;">(Luau)</span> · Automation tools<br>
+    <span style="color: #8b949e;">langs</span> &nbsp;&nbsp;&nbsp;: <span style="color: #00FF9F;">Lua</span> · <span style="color: #00FF9F;">Luau</span> · <span style="color: #00FF9F;">Node.js</span> · <span style="color: #00FF9F;">Python</span> · <span style="color: #00FF9F;">C++</span><br>
+    <span style="color: #8b949e;">learning</span> : something new every day<br><br>
+    <span style="color: #00D4FF;"># if it doesn't work the first time,</span><br>
+    <span style="color: #00D4FF;"># it's not a bug — it's a hidden feature</span><br>
+    <span style="color: #00FF9F;">prime@broskie</span><span style="color: #c9d1d9;">:</span><span style="color: #00D4FF;">~</span><span style="color: #c9d1d9;">$</span> <span style="color: #00FF9F;">▊</span>
+  </div>
+
+</div>
 
 </div>
 
 ---
 
-## `$ cat skills.md`
-
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,nodejs,python,cpp,javascript,typescript,git,github,docker,linux,mysql,sqlite,githubactions&perline=13" alt="Tech Stack" />
-</p>
-
-### 🎮 Game Dev
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FiveM-FF7F50?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CitizenFX-FFD400?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/ESX-00C7B7?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/QBCore-FF3E6C?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/CFrame%20%26%20TweenService-8A2BE2?style=for-the-badge&labelColor=0d1117" />
-</p>
-
----
-
-## `$ ls -la stats`
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pajt9whauht283as&theme=2077" height="180" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pajt9whauht283as&theme=2077" height="180" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Pajt9whauht283as&hide_border=true&background=0d1117&ring=00FF9F&fire=00D4FF&currStreakLabel=00FF9F&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=12" height="180" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pajt9whauht283as&theme=react-dark&bg_color=0d1117&color=00FF9F&line=00D4FF&point=00FF9F&hide_border=true" width="95%" alt="Contribution Graph" />
-</div>
-
-<br>
+## 📈 Contribution Graph
 
 <p align="center">
   <picture>
