@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF9F&center=true&vCenter=true&width=800&lines=Hello%2C+World%2C+eu+sunt+PRIME+BROSKIE;FiveM+Developer+%26+Roblox+Scripter;Lua+%2F+Luau+%2F+Node.js+%2F+Python+%2F+C%2B%2B;Transformez+idei+in+cod+functionala;Discord+%3A+broskie_king" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF9F&center=true&vCenter=true&width=800&lines=Hello%2C+World%2C+I'm+PRIME+BROSKIE;FiveM+Developer+%26+Roblox+Scripter;Lua+%2F+Luau+%2F+Node.js+%2F+Python+%2F+C%2B%2B;Turning+ideas+into+working+code;Discord+%3A+broskie_king" alt="Typing SVG" />
 </p>
 
 <br>
@@ -41,10 +41,10 @@
 | **👤 Name** | `Prime Broskie` |
 | **📍 Location** | `Romania 🇷🇴` |
 | **⚡ Status** | `coding_something_cool` |
-| **🎮 Focus** | FiveM server dev `(ESX / QBCore)` · Roblox scripting `(Luau)` · Automation tools |
+| **🎮 Focus** | FiveM server development `(ESX / QBCore)` · Roblox scripting `(Luau)` · Automation tools |
 | **🛠️ Languages** | `Lua` `Luau` `Node.js` `Python` `C++` |
 | **📚 Learning** | something new every day |
-| **💡 Fun fact** | *Daca nu merge prima data, nu e bug — e feature ascuns.* |
+| **💡 Fun fact** | *If it doesn't work the first time, it's not a bug — it's a hidden feature.* |
 
 </div>
 
@@ -90,9 +90,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
   </picture>
 </p>
 
@@ -102,17 +101,17 @@
 
 <div align="center">
 
-| Badge | Achievement | Status |
-|:-----:|:-----------:|:------:|
-| ⚡ | **Quickdraw** — issue/PR inchis in <5 min | `NOT_YET` |
-| 🎲 | **YOLO** — PR mergat fara review | `NOT_YET` |
-| 🦈 | **Pull Shark** — 2 PR-uri mergate | `NOT_YET` |
-| 🧑‍🤝‍🧑 | **Pair Extraordinaire** — co-author la PR mergat | `NOT_YET` |
-| 🧠 | **Galaxy Brain** — raspuns acceptat in Discussions | `NOT_YET` |
-| 🌟 | **Starstruck** — 16 stele pe un repo | `NOT_YET` |
-| 💖 | **Public Sponsor** — sponsorizare publica | `NOT_YET` |
+| Badge | Achievement | How to unlock | Status |
+|:-----:|:-----------:|:--------------|:------:|
+| ⚡ | **Quickdraw** | Close an issue or PR within 5 min of opening it | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
+| 🎲 | **YOLO** | Merge a PR without any review | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
+| 🦈 | **Pull Shark** | Merge 2 pull requests | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
+| 🧑‍🤝‍🧑 | **Pair Extraordinaire** | Co-author a merged PR with someone else | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
+| 🧠 | **Galaxy Brain** | Get an accepted answer in GitHub Discussions | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
+| 🌟 | **Starstruck** | Get 16 stars on a single repo | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
+| 💖 | **Public Sponsor** | Sponsor a developer publicly | ![Locked](https://img.shields.io/badge/LOCKED-30363d?style=flat-square) |
 
-*Progress: 0 / 7 unlocked — vezi `ACHIEVEMENTS_GUIDE.md` din repo ca sa le iei pe toate.*
+**Progress: 0 / 7 unlocked** — check `ACHIEVEMENTS_GUIDE.md` in this repo for the full walkthrough.
 
 </div>
 
@@ -128,7 +127,7 @@
 </div>
 
 <p align="center">
-  <i>"Codez ca noaptea, dorm ca programatorul obosit."</i>
+  <i>"I code like it's night and sleep like a tired programmer."</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:00FF9F&height=120&section=footer" width="100%" />

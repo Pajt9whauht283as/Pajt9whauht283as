@@ -1,147 +1,147 @@
 # 🏆 ACHIEVEMENTS GUIDE — Prime Broskie
 
-Ghid complet ca sa iti iei toate achievement-urile GitHub posibile pe contul
-`Pajt9whauht283as`. Fiecare sectiune are pasi exacti + timp estimat.
+Complete guide to unlock every GitHub achievement possible on the
+`Pajt9whauht283as` account. Each section has exact steps + estimated time.
 
 ---
 
-## 📌 STEP 0 — Setup profil (15 min)
+## 📌 STEP 0 — Profile setup (15 min)
 
-1. **Creaza repo-ul de profil** (fara el, README-ul nu apare):
-   - Mergi pe https://github.com/new
-   - Repository name: **`Pajt9whauht283as`** (exact username-ul tau)
-   - Public ✓ — NU pune README initial (il aduci tu)
+1. **Create the profile repo** (without it, the README doesn't show):
+   - Go to https://github.com/new
+   - Repository name: **`Pajt9whauht283as`** (exactly your username)
+   - Public ✓ — do NOT add an initial README (you bring your own)
    - Create repository
 
-2. **Urca fisierele** — varianta simpla, din browser:
-   - `Add file → Upload files` in repo-ul nou
-   - Urca: `README.md` si folderul `.github/workflows/snake.yml`
+2. **Upload the files** — easiest way, from the browser:
+   - `Add file → Upload files` in the new repo
+   - Upload: `README.md` and the folder `.github/workflows/`
    - Commit changes → main
 
-3. **Activeaza snake-ul**:
-   - Repo → `Actions` tab → ar trebui sa vezi workflow-ul
-   - Daca nu ruleaza automat: `Actions` → `Generate Snake Animation` → `Run workflow`
-   - Dupa ce termina, apuca-te de refresh in ~1 min — snake-ul apare in README
+3. **Enable the 3D contribution graph**:
+   - Repo → `Actions` tab → you should see the workflow
+   - If it doesn't run automatically: `Actions` → `Generate 3D Contribution Graph` → `Run workflow`
+   - When it finishes, refresh in ~1 min — the 3D graph appears in the README
 
-4. **Bio pe profil** (Settings → Public profile):
+4. **Bio on profile** (Settings → Public profile):
    - Name: `Prime Broskie`
    - Bio: `FiveM • Roblox scripter — Lua / Node.js / Python / C++ | Discord: broskie_king`
-   - Link: pune-ti Discord-ul
+   - Link: add your Discord
 
 ---
 
-## 🗓️ ZIUA 1 — Jocuri rapide (30 min total)
+## 🗓️ DAY 1 — Quick wins (30 min total)
 
-### ⚡ Quickdraw — "inchide ceva in <5 min"
-1. Mergi pe orice repo al tau (ex: `roblox-scripts`)
+### ⚡ Quickdraw — "close something in <5 min"
+1. Go to any of your repos (e.g. `roblox-scripts`)
 2. `Issues → New issue`
-3. Titlu: orice (ex: "test quickdraw")
-4. `Create` → apoi instant `Close issue`
-5. Badge-ul apare pe profil in cateva minute. ✅
+3. Title: anything (e.g. "test quickdraw")
+4. `Create` → then instantly `Close issue`
+5. Badge appears on your profile within minutes. ✅
 
-### 🎲 YOLO — "merge-uiti un PR fara review"
-1. Pe orice repo al tau: `Branches → New branch` (ex: `patch-1`)
-2. Editeaza un fisier (orice), commit pe branch-ul nou
-3. `Pull request → Create pull request` (cu tine ca autor)
-4. Merge-uiti direct, **fara** sa ceri review
-5. Badge-ul YOLO e al tau. ✅
+### 🎲 YOLO — "merge a PR without review"
+1. On any of your repos: `Branches → New branch` (e.g. `patch-1`)
+2. Edit a file (anything), commit on the new branch
+3. `Pull request → Create pull request` (yourself as author)
+4. Merge it directly, **without** requesting review
+5. YOLO badge is yours. ✅
 
-### 💖 Public Sponsor — "sponsorizezi pe cineva public"
-1. Mergi la https://github.com/sponsors — alege un dev cu butonul Sponsor activ
-2. Alege un tier minim (de obicei $1-5 / luna)
-3. IMPORTANT: la checkout seteaza **Public** (nu Private)
-4. Sponsorship = Achievement. (Necesita card bancar.) ✅
+### 💖 Public Sponsor — "sponsor someone publicly"
+1. Go to https://github.com/sponsors — pick a dev with an active Sponsor button
+2. Pick the lowest tier (usually $1-5 / month)
+3. IMPORTANT: at checkout set it to **Public** (not Private)
+4. Sponsorship = Achievement. (Requires a bank card.) ✅
 
-### ❤️ Heart On Your Sleeve (experimental, incearca-l oricum)
-1. Mergi pe orice issue/PR/comentariu de pe GitHub
-2. Apasa butonul de reactie si alege **❤️**
-3. Uneori apare badge-ul, uneori nu (e in testing la GitHub). Merita incercat.
+### ❤️ Heart On Your Sleeve (experimental, try it anyway)
+1. Go to any issue/PR/comment on GitHub
+2. Press the reaction button and choose **❤️**
+3. Sometimes the badge appears, sometimes not (GitHub is still testing it). Worth a shot.
 
-**Rezultat ziua 1: 3-4 badge-uri noi.**
+**Day 1 result: 3-4 new badges.**
 
 ---
 
-## 🗓️ ZIUA 2 — Pull Shark (15 min)
+## 🗓️ DAY 2 — Pull Shark (15 min)
 
-### 🦈 Pull Shark — "2 PR-uri mergate"
-PR-urile mergate **in repo-urile tale publice** conteaza. Faci:
+### 🦈 Pull Shark — "2 merged PRs"
+Merged PRs **in your own public repos** count. Here's how:
 
-1. Pe repo-ul `roblox-scripts`: branch nou `patch-1` → modifica un comentariu din cod
-   → PR → **Merge** (fara review → iei si YOLO daca nu l-ai luat deja)
-2. Pe repo-ul `sugetipulaprimebroskie`: branch nou `patch-1` → mica modificare
+1. On the `roblox-scripts` repo: new branch `patch-1` → modify a code comment
+   → PR → **Merge** (no review → you also get YOLO if you haven't already)
+2. On the `sugetipulaprimebroskie` repo: new branch `patch-1` → small change
    → PR → **Merge**
 
-Doua PR-uri mergate = **Pull Shark** ✅
+Two merged PRs = **Pull Shark** ✅
 
-**Bonus:** PR-ul de la step 1 ruleaza si Quickdraw daca-l faci in 5 min de la deschidere.
+**Bonus:** the PR from step 1 also counts for Quickdraw if you do it within 5 min of opening.
 
 ---
 
-## 🗓️ ZIUA 3-5 — Pair Extraordinaire + Galaxy Brain
+## 🗓️ DAY 3-5 — Pair Extraordinaire + Galaxy Brain
 
-### 🧑‍🤝‍🧑 Pair Extraordinaire — "co-author pe un PR mergat"
-Asta necesita **o persoana reala** (un prieten cu cont GitHub):
+### 🧑‍🤝‍🧑 Pair Extraordinaire — "co-author on a merged PR"
+This requires **a real person** (a friend with a GitHub account):
 
-1. Tu si prietenul lucrati pe un repo comun (sau prietenul iti da access la al lui)
-2. Cand faci commit, adaugi la **finalul mesajului de commit**:
+1. You and your friend work on a shared repo (or the friend gives you access to theirs)
+2. When you commit, add at the **end of the commit message**:
    ```
-   Co-authored-by: Prietenul <emailul-lui-de-pe-github@example.com>
+   Co-authored-by: Friend <their-github-email@example.com>
    ```
-   (email-ul trebuie sa fie cel asociat contului lui GitHub)
-3. PR-ul se merge → amandoi primiti badge-ul. ✅
+   (the email must be the one linked to their GitHub account)
+3. The PR gets merged → both of you get the badge. ✅
 
-⚠️ **NU face cont fals** ca sa-l co-authorizezi — aia e incalcare de ToS si
-GitHub te detecteaza (IP, device, timing). Risti BAN pe contul tau real pentru
-un badge cosmetic. Nu merita.
+⚠️ **Do NOT create a fake account** to co-author with — that's a ToS violation
+and GitHub will detect it (IP, device, timing). You risk a BAN on your real
+account for a cosmetic badge. Not worth it.
 
-### 🧠 Galaxy Brain — "raspuns acceptat in Discussions"
-1. Mergi pe https://github.com/orgs/community/discussions — mereu sunt intrebari
-2. Gaseste o intrebare la care stii raspunsul (ex: GitHub Actions, repo, git)
-3. Raspunde detaliat, structurat, cu pasi concreti
-4. Ruga-l pe OP (autorul intrebarii) sa-ti marcheze raspunsul ca **accepted answer**
-5. 2 raspunsuri acceptate = badge-ul. ✅
-
----
-
-## 🗓️ LUNA 1 — Starstruck (16 ⭐)
-
-### 🌟 Starstruck — "16 stele pe un repo"
-Cea mai grea. Strategie:
-
-1. Repo-ul de profil (cel pe care il facem acum) arata bine → stele de la vizitatori
-2. Fa un tool util si share-uit-l: un script FiveM care rezolva o problema
-   frecventa (ex: instalator de esx/qbcore, manager de resurse), posteaza-l pe
-   servere de FiveM/Roblox Discord, r/FiveM, r/RobloxDevelopers
-3. README-uri bune + demo GIF = mai multe stele
-4. 16 stele pe UN repo (nu in total) → badge-ul ✅
+### 🧠 Galaxy Brain — "accepted answer in Discussions"
+1. Go to https://github.com/orgs/community/discussions — there are always questions
+2. Find a question you know the answer to (e.g. GitHub Actions, repos, git)
+3. Answer in detail, structured, with concrete steps
+4. Ask the OP (question author) to mark your answer as **accepted answer**
+5. 2 accepted answers = the badge. ✅
 
 ---
 
-## 📊 Rezumat tracking
+## 🗓️ MONTH 1 — Starstruck (16 ⭐)
 
-| Achievement | Efort | Status |
+### 🌟 Starstruck — "16 stars on one repo"
+The hardest one. Strategy:
+
+1. The profile repo (the one we're building now) looks good → stars from visitors
+2. Build a useful tool and share it: a FiveM script that solves a common
+   problem (e.g. an esx/qbcore installer, a resource manager), post it on
+   FiveM/Roblox Discord servers, r/FiveM, r/RobloxDevelopers
+3. Good READMEs + demo GIFs = more stars
+4. 16 stars on ONE repo (not in total) → badge ✅
+
+---
+
+## 📊 Tracking summary
+
+| Achievement | Effort | Status |
 |-------------|-------|--------|
-| ⚡ Quickdraw | 2 min | 🔜 ziua 1 |
-| 🎲 YOLO | 5 min | 🔜 ziua 1 |
-| 💖 Public Sponsor | 5 min + bani | 🔜 ziua 1 |
-| ❤️ Heart On Your Sleeve | 1 min (experimental) | 🔜 ziua 1 |
-| 🦈 Pull Shark | 15 min | 🔜 ziua 2 |
-| 🧑‍🤝‍🧑 Pair Extraordinaire | 1 prieten | 🔜 ziua 3-5 |
-| 🧠 Galaxy Brain | 1-2 zile | 🔜 ziua 3-5 |
-| 🌟 Starstruck | ~1 luna | 🔜 luna 1 |
+| ⚡ Quickdraw | 2 min | 🔜 day 1 |
+| 🎲 YOLO | 5 min | 🔜 day 1 |
+| 💖 Public Sponsor | 5 min + money | 🔜 day 1 |
+| ❤️ Heart On Your Sleeve | 1 min (experimental) | 🔜 day 1 |
+| 🦈 Pull Shark | 15 min | 🔜 day 2 |
+| 🧑‍🤝‍🧑 Pair Extraordinaire | 1 friend | 🔜 day 3-5 |
+| 🧠 Galaxy Brain | 1-2 days | 🔜 day 3-5 |
+| 🌟 Starstruck | ~1 month | 🔜 month 1 |
 
-**Nu se mai pot lua:** Arctic Code Vault (2020), Mars 2020 (campanie inchisa).
+**No longer obtainable:** Arctic Code Vault (2020), Mars 2020 (campaign closed).
 
 ---
 
-## ⚙️ Reset README achievement tracker
+## ⚙️ Update the README achievement tracker
 
-Dupa ce iei un badge, editezi `README.md` → sectiunea `achievements.log`:
+After unlocking a badge, edit `README.md` → the `achievements.log` section:
 
-- `NOT_YET` → `UNLOCKED ✅` si bifezi checkbox-ul din titlu
-- Commit + push — gata, tracker-ul tau e live.
+- Change the badge from `LOCKED` to `UNLOCKED ✅` and update the shield color
+- Commit + push — your tracker is live.
 
-## 💻 Comenzi git (daca vrei varianta CLI, nu browser)
+## 💻 Git commands (if you prefer CLI over browser)
 
 ```bash
 git init
