@@ -34,27 +34,19 @@
 
 ## `$ whoami`
 
-```yaml
-name: Prime Broskie
-location: Romania 🇷🇴
-status: coding_something_cool
+<div align="center">
 
-languages:
-  - Lua (FiveM / esx / qbcore)
-  - Luau (Roblox scripting)
-  - Node.js
-  - Python
-  - C++
+| | |
+|:---:|:---|
+| **👤 Name** | `Prime Broskie` |
+| **📍 Location** | `Romania 🇷🇴` |
+| **⚡ Status** | `coding_something_cool` |
+| **🎮 Focus** | FiveM server dev `(ESX / QBCore)` · Roblox scripting `(Luau)` · Automation tools |
+| **🛠️ Languages** | `Lua` `Luau` `Node.js` `Python` `C++` |
+| **📚 Learning** | something new every day |
+| **💡 Fun fact** | *Daca nu merge prima data, nu e bug — e feature ascuns.* |
 
-focus:
-  - FiveM server development
-  - Roblox game scripting
-  - Automation tools
-  - Learning something new every day
-
-fun_fact: >
-  Daca nu merge prima data, nu e bug — e feature ascuns.
-```
+</div>
 
 ---
 
@@ -83,8 +75,8 @@ fun_fact: >
 ## `$ ls -la stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pajt9whauht283as&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9F&icon_color=00D4FF&text_color=c9d1d9&border_radius=12" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pajt9whauht283as&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&border_radius=12" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pajt9whauht283as&theme=2077" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pajt9whauht283as&theme=2077" height="180" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=Pajt9whauht283as&hide_border=true&background=0d1117&ring=00FF9F&fire=00D4FF&currStreakLabel=00FF9F&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=12" height="180" alt="GitHub Streak" />
 </div>
 
