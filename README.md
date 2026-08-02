@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,100:00D4FF&height=200&section=header&text=PRIME%20BROSKIE&fontSize=52&fontColor=0d1117&animation=fadeIn&fontAlignY=52&desc=FiveM%20%7C%20Roblox%20%7C%20Lua%20%7C%20Code%20%26%20Coffee&descSize=18&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,100:00D4FF&height=200&section=header&text=PRIME%20BROSKIE&fontSize=52&fontColor=0d1117&animation=fadeIn&fontAlignY=52&desc=FiveM%20%7C%20Roblox%20%7C%20Lua%20%7C%20Code%20%26amp%3B%20Coffee&descSize=18&descAlignY=75" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF9F&center=true&vCenter=true&width=800&lines=Hello%2C+World%2C+I'm+PRIME+BROSKIE;FiveM+Developer+%26+Roblox+Scripter;Lua+%2F+Luau+%2F+Node.js+%2F+Python+%2F+C%2B%2B;Turning+ideas+into+working+code;Discord+%3A+broskie_king" alt="Typing SVG" />
