@@ -1,32 +1,15 @@
-<div align="center">
-
-```
-██████╗ ██████╗ ██╗███╗   ███╗███████╗    ██████╗ ██████╗  ██████╗ ███████╗██╗  ██╗██╗███████╗
-██╔══██╗██╔══██╗██║████╗ ████║██╔════╝    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║ ██╔╝██║██╔════╝
-██████╔╝██████╔╝██║██╔████╔██║█████╗      ██████╔╝██████╔╝██║   ██║███████╗█████╔╝ ██║█████╗  
-██╔═══╝ ██╔══██╗██║██║╚██╔╝██║██╔══╝      ██╔══██╗██╔══██╗██║   ██║╚════██║██╔═██╗ ██║██╔══╝  
-██║     ██║  ██║██║██║ ╚═╝ ██║███████╗    ██████╔╝██║  ██║╚██████╔╝███████║██║  ██╗██║███████╗
-╚═╝     ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
-
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,100:00D4FF&height=160&section=header&text=PRIME%20BROSKIE&fontSize=42&fontColor=0d1117&animation=fadeIn&fontAlignY=55&desc=FiveM%20%7C%20Roblox%20%7C%20Code%20%7C%20Coffee&descAlignY=75" width="100%" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,100:00D4FF&height=200&section=header&text=PRIME%20BROSKIE&fontSize=52&fontColor=0d1117&animation=fadeIn&fontAlignY=52&desc=FiveM%20%7C%20Roblox%20%7C%20Lua%20%7C%20Code%20%26%20Coffee&descSize=18&descAlignY=75" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF9F&center=true&vCenter=true&width=800&lines=Hello%2C+World%2C+I'm+PRIME+BROSKIE;FiveM+Developer+%26+Roblox+Scripter;Lua+%2F+Luau+%2F+Node.js+%2F+Python+%2F+C%2B%2B;Turning+ideas+into+working+code;Discord+%3A+broskie_king" alt="Typing SVG" />
 </p>
 
-<br>
-
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Pajt9whauht283as&label=PROFILE+VIEWS&color=00FF9F&style=flat-square)](https://github.com/Pajt9whauht283as)
-[![Discord](https://img.shields.io/badge/Discord-broskie_king-00D4FF?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117&color=00D4FF)](https://discord.com/users/broskie_king)
-[![GitHub](https://img.shields.io/badge/GitHub-Pajt9whauht283as-00FF9F?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=00FF9F)](https://github.com/Pajt9whauht283as)
+[![Discord](https://img.shields.io/badge/Discord-broskie_king-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/broskie_king)
+[![Focus](https://img.shields.io/badge/Focus-Game_Development-00D4FF?style=flat-square&labelColor=0d1117)](https://github.com/Pajt9whauht283as?tab=repositories)
+[![Lua](https://img.shields.io/badge/Main_Language-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white&labelColor=0d1117)](https://github.com/Pajt9whauht283as?tab=repositories)
 
 </div>
 
@@ -40,7 +23,63 @@
 
 ---
 
-## 📈 Contribution Graph
+## `$ cat techstack.txt`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,nodejs,python,cpp,html,css,mysql,git,github,vscode,docker&theme=dark&perline=6" alt="Tech stack" />
+</p>
+
+<div align="center">
+
+| Domain | Tools of the trade |
+|:---|:---|
+| **FiveM** | Lua, QBCore, ESX, MySQL, oxmysql |
+| **Roblox** | Luau, Rojo, Roblox Studio |
+| **Backend** | Node.js, Python, REST APIs |
+| **Also** | C++, HTML/CSS, Git, Docker |
+
+</div>
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pajt9whauht283as&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&icon_color=00D4FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pajt9whauht283as&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Pajt9whauht283as&hide_border=true&background=0d1117&stroke=00FF9F&ring=00D4FF&fire=00FF9F&currStreakLabel=00FF9F&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats" />
+
+</div>
+
+---
+
+## `$ ls -la ./projects`
+
+<div align="center">
+
+| Project | What it is | Stack |
+|:---|:---|:---|
+| **[roblox-scripts](https://github.com/Pajt9whauht283as/roblox-scripts)** | A collection of Roblox scripts and utilities | `Lua` `Luau` |
+| **[qb-banking](https://github.com/Pajt9whauht283as/qb-banking)** | Banking system for QB-Core FiveM servers | `Lua` `QBCore` |
+| **[reghele](https://github.com/Pajt9whauht283as/reghele)** | Web experiment, front-end styling playground | `CSS` `HTML` |
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Pajt9whauht283as?tab=repositories">
+    <img src="https://img.shields.io/badge/→%20See%20all%20repositories-00FF9F?style=for-the-badge&labelColor=0d1117" alt="All repos" />
+  </a>
+</p>
+
+---
+
+## `$ ./contributions --graph`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pajt9whauht283as&bg_color=0d1117&color=00FF9F&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="98%" />
+</p>
 
 <p align="center">
   <picture>
