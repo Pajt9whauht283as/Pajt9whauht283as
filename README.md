@@ -59,11 +59,14 @@
 
 <div align="center">
 
-| Project | What it is | Stack |
+| Area | What I build | Stack |
 |:---|:---|:---|
-| **[roblox-scripts](https://github.com/Pajt9whauht283as/roblox-scripts)** | A collection of Roblox scripts and utilities | `Lua` `Luau` |
+| **FiveM resources** | Server-side scripts and systems for QBCore / ESX | `Lua` `MySQL` |
 | **[qb-banking](https://github.com/Pajt9whauht283as/qb-banking)** | Banking system for QB-Core FiveM servers | `Lua` `QBCore` |
-| **[reghele](https://github.com/Pajt9whauht283as/reghele)** | Web experiment, front-end styling playground | `CSS` `HTML` |
+| **Roblox tooling** | Luau scripts, utilities and automation | `Luau` |
+| **Bots & APIs** | Discord bots, REST services, dashboards | `Python` `Node.js` |
+
+<sub>Most of my work lives in private repositories.</sub>
 
 </div>
 
