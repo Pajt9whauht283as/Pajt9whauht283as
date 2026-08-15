@@ -46,8 +46,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pajt9whauht283as&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&icon_color=00D4FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pajt9whauht283as&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-sigma-five-one.vercel.app/api?username=Pajt9whauht283as&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&icon_color=00D4FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five-one.vercel.app/api/top-langs/?username=Pajt9whauht283as&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Pajt9whauht283as&hide_border=true&background=0d1117&stroke=00FF9F&ring=00D4FF&fire=00FF9F&currStreakLabel=00FF9F&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats" />
 
