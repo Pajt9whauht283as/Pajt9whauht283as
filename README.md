@@ -93,19 +93,6 @@
 
 ---
 
-## `$ git log --stat`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output-stats/github-stats.svg" alt="GitHub Stats" width="440" />
-  <img src="https://raw.githubusercontent.com/Pajt9whauht283as/Pajt9whauht283as/output-stats/top-languages.svg" alt="Top Languages" width="380" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pajt9whauht283as&theme=dark" alt="GitHub Streak" width="440" />
-</p>
-
----
-
 ## `$ echo contact`
 
 <div align="center">
