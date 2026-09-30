@@ -129,39 +129,13 @@ motto:     "ship it, then read the docs"
 
 ## `$ ls -la ./projects`
 
-> Most of what I build lives in **private repos**. Here's the honest inventory.
-
-### 🔒 Private
-
 | Project | What it is | Stack |
 |:---|:---|:---|
-| **DEOBFUSCATORS** | Luraph v15 / Prometheus deobfuscation suite | `Lua` |
-| **rac-deobfuscat** | Rac + Luraph recovery pipeline | `Lua` |
-| **roblox-luainjector** | User-mode Luau injector — manual-map, thread hijack, RSB1 bytecode wrapper | `C++` |
-| **roblox-account-generator** | Account automation pipeline | `JavaScript` |
-| **HEADLESS-NOTIFIER** | Headless Roblox notification service | `Lua` |
-| **GOATRORP** | Private GOATRORP FiveM server source | `Lua` `MySQL` |
-| **ByteAC** | FiveM anticheat | `Lua` |
-| **FIVEM-ANTICHEAT-SCANNER** | External anticheat scanner | `C#` |
-| **ps-mdt** | MDT / Mobile Data Terminal for QBCore | `Svelte` |
-| **razed-cryptomining** | Crypto mining simulator module for QBCore | `Lua` |
-| **flash-rp-politie** | Police system for Flash RP | `JavaScript` |
-| **CC-listing** | Card listing + checker with live BIN lookup | `JavaScript` |
-| **vanta-bot** | VANTA external Discord bot | `JavaScript` |
-| **mini-api** · **main-api** · **webhook-api** | Internal API stack | `Python` `JavaScript` |
-| **outlook-generator** | Bulk mail account generator | `Python` |
-| **funcaptcha-solver** | FunCaptcha solving service | `Python` |
-| **g2a-checker** · **zap-checker** | Store / hosting panel checkers | `Python` |
-| **crypto-balance-topup** · **airport-charm-project** | Payment + service backends | `TypeScript` |
-| **prime-shop** · **snapplus** · **rebirth** | Web storefronts and dashboards | `JavaScript` |
-
-### 🌐 Public
-
-| Project | What it is | Stack |
-|:---|:---|:---|
-| **[qb-banking](https://github.com/Pajt9whauht283as/qb-banking)** | Banking system for QB-Core FiveM servers | `Lua` |
+| **[qb-banking](https://github.com/Pajt9whauht283as/qb-banking)** | Banking system for QB-Core FiveM servers | `Lua` `MySQL` |
 | **[opencode-fixes](https://github.com/Pajt9whauht283as/opencode-fixes)** | Bug fixes for opencode-ai | `TypeScript` |
 | **[vorp_core](https://github.com/Pajt9whauht283as/vorp_core)** | RedM VORP core | `Lua` |
+
+<sub>Most of my work lives in private repositories.</sub>
 
 <p align="center">
   <a href="https://github.com/Pajt9whauht283as?tab=repositories">
